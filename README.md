@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" width="70%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFrbjM0ZndlMTZmbXQ5a2s3bGYzYmF6dGJsa2U0aHl2cG1mbWxvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="65%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Gautam Jangir</h1>
