@@ -12,7 +12,7 @@
 * 🔭 Currently working on:
 
   * [Modern Air Quality Monitoring System](https://github.com/Jangir-Gautam/Modern_Air_Quality_Monitoring_System)
-  * Sign 2 Text Project
+  * [Sign 2 Text Project](https://github.com/Jangir-Gautam/Sign2Text)
 
 * 🌱 Currently learning:
 
